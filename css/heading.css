@@ -1,0 +1,20 @@
+.heading-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 10%;
+  margin-bottom: 20px;
+}
+
+.heading {
+  font-size: 6rem;
+  color: wheat;
+  font-weight: 700;
+  text-shadow: 2px 2px 2px #B3541E;
+  font-family: Anton, Arial;
+  letter-spacing: 2px;
+}
+
+.logo {
+  object-fit: contain;
+}
